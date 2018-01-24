@@ -12,10 +12,14 @@ git status
     *untracked files
     *files queued
 
-git diff - look at changes to file already under version control
-git add - add file to queue to be comitted
-git rm - git remove
-git commit - add queued changes to repository version history
+*git diff - look at changes to file already under version control
+*git add - add file to queue to be comitted
+*git rm - git remove
+*git commit - add queued changes to repository version history
+
+*git push
+
+*git commit -am - 'adds in commit message'
 
 vim workflow:
     vim filename
